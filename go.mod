@@ -19,3 +19,5 @@ require (
 	golang.org/x/tools v0.1.12
 	google.golang.org/appengine v1.6.5
 )
+
+replace github.com/golang/gddo => github.com/VincentBaron/api-gddo v0
