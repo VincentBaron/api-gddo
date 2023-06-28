@@ -12,8 +12,8 @@ import (
 	"os"
 	"time"
 
+	"github.com/VincentBaron/api-gddo/doc"
 	"github.com/golang/gddo/database"
-	"github.com/golang/gddo/doc"
 )
 
 var reindexCommand = &command{

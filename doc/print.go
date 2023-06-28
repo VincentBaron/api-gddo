@@ -4,6 +4,7 @@
 // license that can be found in the LICENSE file or at
 // https://developers.google.com/open-source/licenses/bsd.
 
+//go:build ignore
 // +build ignore
 
 // Command print fetches and prints package documentation.
@@ -17,8 +18,8 @@ import (
 	"net/http"
 	"os"
 
+	"github.com/VincentBaron/api-gddo/doc"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/golang/gddo/doc"
 	"github.com/golang/gddo/gosrc"
 )
 

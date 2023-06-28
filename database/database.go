@@ -54,7 +54,7 @@ import (
 	"google.golang.org/appengine/remote_api"
 	"google.golang.org/appengine/search"
 
-	"github.com/golang/gddo/doc"
+	"github.com/VincentBaron/api-gddo/doc"
 	"github.com/golang/gddo/gosrc"
 )
 

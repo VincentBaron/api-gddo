@@ -17,7 +17,7 @@ import (
 
 	"cloud.google.com/go/pubsub"
 
-	"github.com/golang/gddo/doc"
+	"github.com/VincentBaron/api-gddo/doc"
 	"github.com/golang/gddo/gosrc"
 )
 
